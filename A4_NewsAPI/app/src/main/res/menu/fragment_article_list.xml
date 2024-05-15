@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/all_expense"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Technology" />
+    <item
+        android:id="@+id/food_expense"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Science" />
+    <item
+        android:id="@+id/entertain_expense"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Entertainment" />
+    <item
+        android:id="@+id/housing_expense"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Politics" />
+    <item
+        android:id="@+id/utilities_expense"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="LifeStyle" />
+    <item
+        android:id="@+id/fuel_expense"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Weather" />
+    <item
+        android:id="@+id/automotive_expense"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Traffic" />
+    <item
+        android:id="@+id/misc_expense"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Sports" />
+</menu>

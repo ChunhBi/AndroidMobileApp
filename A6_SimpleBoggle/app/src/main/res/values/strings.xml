@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SimpleBoggle</string>
+    <string name="enter_a_word_then_hit_submit">Enter a word then hit submit</string>
+    <string name="clear">Clear</string>
+    <string name="submit">Submit</string>
+</resources>

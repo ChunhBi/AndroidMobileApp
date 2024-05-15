@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewsAPI</string>
+    <string name="article_title_hint">Enter a title for the article.</string>
+    <string name="article_title_label">Title</string>
+    <string name="article_details_label">Descriptions</string>
+    <string name="article_author_label">Author</string>
+    <string name="article_solved_label">Solved</string>
+    <string name="link">Link</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RandomImage</string>
+    <string name="random_image">Random Image</string>
+    <string name="name">Name</string>
+</resources>

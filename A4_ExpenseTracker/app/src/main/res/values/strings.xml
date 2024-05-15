@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExpenseTracker</string>
+    <string name="expense_title_hint">Enter a title for the expense.</string>
+    <string name="expense_title_label">Title</string>
+    <string name="expense_details_label">Time</string>
+    <string name="new_expense">New Expense</string>
+    <string name="category">Category:</string>
+    <string name="amount">Amount</string>
+    <string name="enter_an_amount_for_the_expense">Enter an amount for the expense</string>
+</resources>
